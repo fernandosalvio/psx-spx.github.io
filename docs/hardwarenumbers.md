@@ -379,6 +379,7 @@ And, maybe unlicensed:<br/>
   SLUH-00086 Namco/Taiko Drum Master (Taiko Controller Pack) (for PS2)
   SLUH-00088 RedOctane In the Groove Dance Pad Controller ?
   SLUH-00090 Dance Pad (bundled with Pump It Up) (for PS2)
+  SLUH-00098 Guitar Hero Aerosmith (Guitar and Game bundle) (PS3)
 ```
 
 #### Sony Licensed Hardware (Asia)
